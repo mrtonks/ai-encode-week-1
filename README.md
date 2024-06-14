@@ -1,2 +1,2 @@
-# ai-encode-week-1-project
+# ai-encode-week-1
 AI Encode Course - Week 1 weekend project

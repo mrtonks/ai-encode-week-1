@@ -1,16 +1,16 @@
 # AI Encode Course - Week 1 weekend project
 
-During the first week of the course, we have seen a few applications in Machine Learning and Deep Learning. Specifically, Neural Networks, LLMs and the uses of Transformers, and more importantly, OpenAI.
+During the first week of the course, we saw a few applications in Machine Learning and Deep Learning. Specifically, Neural Networks, LLMs, the uses of Transformers, and more importantly, OpenAI.
 
-OpenAI has increcibly made things easier for everyone as the pre-trained models have served as the based for many incredible projects.
+OpenAI has incredibly made things easier for everyone as the pre-trained models have served as the based for many incredible projects.
 
 The current project is based on OpenAI and how well we can apply the chat `prompts` to customise our outcomes in the different scripts.
 
-The project will allow the user to execute different scripts that will prompt them to ask for recipes, dish names and critizise a recipe as if they were talking to a professional chef. Every script will run a different version of the ChefGPT with an entirely different personality.
+The project will allow the user to execute different scripts that will prompt them to ask for recipes, and dish names and criticize a recipe as if they were talking to a professional chef. Every script will run a different version of the ChefGPT with an entirely different personality.
 
 ## Prerequisites
 
-Run the following command in the terminal with python 3
+Run the following command in the terminal with Python 3
 
 ```
 pip install openai

@@ -21,5 +21,11 @@ def main():
     else:
       print("Invalid input. Please try again")
 
+   if user_input == "2":
+      ChefGPT_tJ5Mon.run()
+      break
+    else:
+      print("Invalid input. Please try again")
+
 if __name__ == "__main__":
   main()

@@ -18,10 +18,7 @@ def main():
     if user_input == "1":
       ChefGPT_2vJSPK.run()
       break
-    else:
-      print("Invalid input. Please try again")
-
-   if user_input == "2":
+    elif user_input == "2":
       ChefGPT_tJ5Mon.run()
       break
     else:

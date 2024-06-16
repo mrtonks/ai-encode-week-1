@@ -96,7 +96,7 @@ Instead of looking for local bananas, you can explore other delicious and more s
 When it comes to bananas, try to opt for Fairtrade or organic bananas at your local grocery store. Fairtrade bananas ensure fair wages and sustainable practices for the farmers who grow them. Choosing organic bananas supports environmentally friendly farming methods that promote soil health and biodiversity.
 
 Would you like to explore a recipe using locally available ingredients from the North of England such as apples or blackberries, or do you have any other questions or requests for recipes?
-</pre>pre>
+</pre>
 
 
 

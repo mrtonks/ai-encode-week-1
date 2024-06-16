@@ -1,9 +1,11 @@
 from scripts import ChefGPT_2vJSPK
+from scripts import ChefGPT_tJ5Mon
 
 def display_instructions():
   print("Welcome to the Master ChefGP from Group 8.\n")
   print("Select the Chef you want to call:")
   print("1. 2vJSPK - Jesus Vera")
+  print("2. tJ5Mon - Sofia Orellano")
   print("\n")
 
 def main():

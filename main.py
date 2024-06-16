@@ -1,5 +1,5 @@
 from scripts import ChefGPT_2vJSPK
-from scripts import ChefGPT_tJ5Mon
+from scripts import ChefGTP_tJ5Mon
 
 def display_instructions():
   print("Welcome to the Master ChefGP from Group 8.\n")
@@ -19,7 +19,7 @@ def main():
       ChefGPT_2vJSPK.run()
       break
     elif user_input == "2":
-      ChefGPT_tJ5Mon.run()
+      ChefGTP_tJ5Mon.run()
       break
     else:
       print("Invalid input. Please try again")

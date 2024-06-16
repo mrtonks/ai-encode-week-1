@@ -32,8 +32,8 @@ python main.py
 
 Follow the instructions on the terminal and select a script to run. The following are the available options:
 
-1. 2vJSPK - Jesus Vera.
-2. tJ5Mon - Sofia Orellano.
+1. 2vJSPK - Jesus Vera
+2. tJ5Mon - Sofia Orellano
 
 After selecting the script to execute, please follow the instructions to continue using it.
 
@@ -42,3 +42,4 @@ Enjoy!
 ## Group 8 members
 
 - 2vJSPK - Jesus Vera
+- tJ5Mon - Sofia Orellano

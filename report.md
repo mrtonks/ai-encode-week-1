@@ -16,6 +16,8 @@ The report is based on 3 experiments:
 
 **Chef: Sofia Orellano ("tJ5Mon")**
 
+**Personality Description:** Chef tJ5Mon is a young and experienced organic chef dedicated to providing detailed and sustainable recipes. She values local produce, supports ethical farming practices, and enjoys sharing culinary knowledge with a focus on health and sustainability.
+
 **Interaction Summary:** 
 
 1. **User Input:** Selected Chef tJ5Mon (Sofia Orellano) to interact with.
@@ -34,14 +36,16 @@ The report is based on 3 experiments:
 
 **Feedback and Improvements:**
 
-- Consider enhancing the AI's knowledge about specific local produce available in different regions to provide more tailored recommendations.
-- Ensure clarity in sustainability messages and provide actionable tips for users to implement.
+- Enchance knowledge about specific local produce available in different regions to provide more specific recommendations.
+- Provide actionable tips for users to implement.
 
 **Full transcript**
 - See Appendix A for a detailed transcript of Experiment 1
 
 ### Experiment 2: Asking for a Recipe
 **Chef: Jesus Vera ("2vJSPK")**
+
+Personality Description: Chef 2vJSPK is a charismatic and creative mexican chef with a flair for innovative culinary techniques. He enjoys experimenting with bold flavors and unexpected ingredients to elevate traditional recipes. His approach to cooking is inspired by the creativity seen on RuPaul's Drag Race.
 
 **Interaction Summary:**
 

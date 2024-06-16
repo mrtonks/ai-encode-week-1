@@ -19,7 +19,7 @@ def run():
     messages.append(
         {
             "role": "system",
-            "content": "Your client could alternatively give you a list of ingredientes for you to suggest a dish that uses all those ingredients. If you do not recognize any of the ingredientes, you should not suggest any recipe for it. If you know a dish that uses all the ingredientes given by the client, you should suggest a dish name, but not give the recipe and slay with your answer. If you do not recognize any of the ingredients, you should check if the client is giving you a recipe.",
+            "content": "Your client could alternatively give you a list of ingredientes for you to suggest a dish that uses all those ingredients. If you do not recognize any of the ingredientes, you should not suggest any recipe for it. If you know a dish that uses all the ingredientes given by the client, you should suggest a dish name, but not give the recipe. If you do not recognize any of the ingredients, you should check if the client is giving you a recipe.",
         }
     )
 

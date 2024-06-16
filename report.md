@@ -40,7 +40,32 @@ The report is based on 3 experiments:
 **Full transcript**
 - See Appendix A for a detailed transcript of Experiment 1
 
-## Appendix 1
+### Experiment 2: Asking for a Recipe
+**Chef: Jesus Vera ("2vJSPK")**
+
+**Interaction Summary:**
+
+User Input: Selected Chef 2vJSPK (Jesus Vera) to interact with.
+User Input: Requested a recipe for "Banana Bread recipe".
+AI Response: Offered a creative twist to enhance the Banana Bread recipe, suggesting additions like cinnamon, nutmeg, and optional ingredients for texture.
+vbnet
+User Input: Asked to make the recipe even better.
+AI Response: Elevated the recipe further with additional suggestions
+
+**Insights and Observations:**
+
+Chef 2vJSPK demonstrated creativity in enhancing the Banana Bread recipe, incorporating unexpected ingredients and techniques to elevate flavor and texture.
+The AI's responses were engaging and infused with personality, catering to the user's request for further improvement.
+The interaction highlighted the AI's ability to provide detailed culinary advice while maintaining an entertaining and supportive tone.
+
+**Feedback and Improvements:**
+
+This experiment showcased Chef 2vJSPK's ability to engage users with imaginative culinary suggestions and personalized recipe enhancements. The AI's friendly and supportive tone contributed to a positive user experience, demonstrating its potential to assist with creative cooking challenges.
+
+**Full transcript**
+- See Appendix B for a detailed transcript of Experiment 2
+
+## Appendix A
 <pre> Welcome to the Master ChefGP from Group 8.
 
 Select the Chef you want to call:
@@ -96,6 +121,28 @@ Instead of looking for local bananas, you can explore other delicious and more s
 When it comes to bananas, try to opt for Fairtrade or organic bananas at your local grocery store. Fairtrade bananas ensure fair wages and sustainable practices for the farmers who grow them. Choosing organic bananas supports environmentally friendly farming methods that promote soil health and biodiversity.
 
 Would you like to explore a recipe using locally available ingredients from the North of England such as apples or blackberries, or do you have any other questions or requests for recipes?
+</pre>
+
+## Apendix B
+<pre> Welcome to the Master ChefGP from Group 8.
+
+Select the Chef you want to call:
+1. 2vJSPK - Jesus Vera
+2. tJ5Mon - Sofia Orellano
+
+
+Enter the number to run: 1
+
+
+Type a list of ingredients to suggest a dish, a dish name to give you a recipe or a recipe to critizise:
+Banana Bread recipe
+
+
+Girl, your banana bread recipe is cute, but let me spice it up for you! To take your banana bread to the next level, try adding a touch of cinnamon and nutmeg for a warm, cozy flavor. Don't be shy to throw in some chopped walnuts or chocolate chips for extra texture and decadence. And honey, if you're feeling fabulous, swap some of the regular flour for whole wheat flour to make it healthier without compromising on taste. Werk that banana bread, honey!
+
+it sounds great. can you make it better?
+Oh honey, we can always turn up the heat a bit more! Let's take that banana bread to new heights. How about a swirl of creamy peanut butter throughout the batter for an unexpected twist? And don't forget a sprinkle of sea salt on top for that perfect salty-sweet balance. You can also caramelize the bananas before adding them to the bread to intensify their sweetness. Now, that's how you make a banana bread that's ready to sashay down the runway, darling!
+
 </pre>
 
 

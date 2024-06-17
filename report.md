@@ -45,26 +45,27 @@ The report is based on 3 experiments:
 ### Experiment 2: Asking for a Recipe
 **Chef: Jesus Vera ("2vJSPK")**
 
-Personality Description: Chef 2vJSPK is a charismatic and creative mexican chef with a flair for innovative culinary techniques. He enjoys experimenting with bold flavors and unexpected ingredients to elevate traditional recipes. His approach to cooking is inspired by the creativity seen on RuPaul's Drag Race.
+**Personality Description:** Chef 2vJSPK is a charismatic and creative mexican chef with a flair for innovative culinary techniques. He enjoys experimenting with bold flavors and unexpected ingredients to elevate traditional recipes. His approach to cooking is inspired by the creativity seen on RuPaul's Drag Race.
 
 **Interaction Summary:**
 
-User Input: Selected Chef 2vJSPK (Jesus Vera) to interact with.
-User Input: Requested a recipe for "Banana Bread recipe".
-AI Response: Offered a creative twist to enhance the Banana Bread recipe, suggesting additions like cinnamon, nutmeg, and optional ingredients for texture.
+1. **User Input:** Selected Chef 2vJSPK (Jesus Vera) to interact with.
+2. **User Input:** Requested a recipe for "Banana Bread recipe".
+3. **AI Response:** Offered a creative twist to enhance the Banana Bread recipe, suggesting additions like cinnamon, nutmeg, and optional ingredients for texture.
 vbnet
-User Input: Asked to make the recipe even better.
-AI Response: Elevated the recipe further with additional suggestions
+4. **User Input:** Asked to make the recipe even better.
+5. **AI Response:** Elevated the recipe further with additional suggestions
 
 **Insights and Observations:**
 
-Chef 2vJSPK demonstrated creativity in enhancing the Banana Bread recipe, incorporating unexpected ingredients and techniques to elevate flavor and texture.
-The AI's responses were engaging and infused with personality, catering to the user's request for further improvement.
-The interaction highlighted the AI's ability to provide detailed culinary advice while maintaining an entertaining and supportive tone.
+- Chef 2vJSPK demonstrated creativity in enhancing the Banana Bread recipe, incorporating unexpected ingredients and techniques to elevate flavor and texture.
+- The AI's responses were engaging and infused with personality, catering to the user's request for further improvement.
+- The interaction highlighted the AI's ability to provide detailed culinary advice while maintaining an entertaining and sassy tone.
 
 **Feedback and Improvements:**
 
-This experiment showcased Chef 2vJSPK's ability to engage users with imaginative culinary suggestions and personalized recipe enhancements. The AI's friendly and supportive tone contributed to a positive user experience, demonstrating its potential to assist with creative cooking challenges.
+- This experiment showcased Chef 2vJSPK's ability to engage users with imaginative culinary suggestions and personalized recipe enhancements.
+- The AI's friendly and funny tone contributed to a positive user experience, demonstrating its potential to assist with creative cooking challenges.
 
 **Full transcript**
 - See Appendix B for a detailed transcript of Experiment 2
@@ -72,31 +73,34 @@ This experiment showcased Chef 2vJSPK's ability to engage users with imaginative
 ### Experiment 3: Criticising a recipe
 **Chef: Aleksandar Brayanov ("4bwGEs")**
 
-Personality Description: Chef 4bwGEs is very knowledgable and ready to offer it's expertise by providing variety of high quality ingredients that could be used to enhance the flavours of the given recipe. He is also ready to explain in details his take on the recipe.
+**Personality Description:** Chef 4bwGEs is very knowledgable and ready to offer it's expertise by providing variety of high quality ingredients that could be used to enhance the flavours of the given recipe. He is also ready to explain in details his take on the recipe.
 
 **Interaction Summary:**
 
-User Input: Selected Chef 4bwGEs (Aleksandar Brayanov) to interact with.
-User Input: Requested to crticize Chef 2vJSPK (Jesus Vera)'s banana brea .
-AI Response: Offered a creative twist to enhance the Banana Bread recipe, suggesting additions like vanila, caramel swirl, dulce leche, shredded coconuts, and dried fruits. The AI also presented a new detailed recipe for "Peanut Butter Swirl Banana Bread with Sea Salt"
-User Input: Asked to further improve the recipe.
-AI Response: Elevated the recipe further suggesting adding peanuts and chocolate ganache.
+1. **User Input:** Selected Chef 4bwGEs (Aleksandar Brayanov) to interact with.
+2. **User Input:** Requested to crticize Chef 2vJSPK (Jesus Vera)'s banana brea .
+3. **AI Response:** Offered a creative twist to enhance the Banana Bread recipe, suggesting additions like vanila, caramel swirl, dulce leche, shredded coconuts, and dried fruits. The AI also presented a new detailed recipe for "Peanut Butter Swirl Banana Bread with Sea Salt"
+4. **User Input:** Asked to further improve the recipe.
+5. **AI Response:** Elevated the recipe further suggesting adding peanuts and chocolate ganache.
 
 **Insights and Observations:**
 
-Chef 4bwGEs demonstrated vast knowledge of alternative ways improve banana bread recipe.
-The AI's responses were engaging and left the user with a lot of options to enhance the flavour of the given recipe.
-The interaction highlighted the AI's ability to provide inovative additions to existing recipies.
+- Chef 4bwGEs demonstrated vast knowledge of alternative ways improve banana bread recipe.
+- The AI's responses were engaging and left the user with a lot of options to enhance the flavour of the given recipe.
+- The interaction highlighted the AI's ability to provide inovative additions to existing recipies.
 
 **Feedback and Improvements:**
 
-This experiment showcased Chef 4bwGEs's ability to suggest variety of creative improvements to exisiting recipies. The AI's constructive and supportive tone contributed to a positive user experiences. It also gave the user couple of different ways to improve the existing recipe and suggested a detailed updated recipe as a guidance.
+- This experiment showcased Chef 4bwGEs's ability to suggest variety of creative improvements to exisiting recipies.
+- The AI's constructive and supportive tone contributed to a positive user experiences.
+- It also gave the user couple of different ways to improve the existing recipe and suggested a detailed updated recipe as a guidance.
 
 **Full transcript**
 - See Appendix C for a detailed transcript of Experiment 3
 
 ## Appendix A
-<pre> Welcome to the Master ChefGP from Group 8.
+<pre>
+Welcome to the Master ChefGP from Group 8.
 
 Select the Chef you want to call:
 1. 2vJSPK - Jesus Vera
@@ -108,7 +112,7 @@ Enter the number to run: 2
 
 
 Type a list of ingredients to suggest a dish, a dish name to provide you a recipe or a recipe to critizise:
-bananas, butter, eggs      
+bananas, butter, eggs
 
 
 The ingredients you have provided - bananas, butter, and eggs - can be used to make a classic and delicious dish called Banana Bread. Would you like the recipe for a scrumptious Banana Bread so you can bake it at home?
@@ -155,7 +159,8 @@ Would you like to explore a recipe using locally available ingredients from the 
 </pre>
 
 ## Apendix B
-<pre> Welcome to the Master ChefGP from Group 8.
+<pre>
+Welcome to the Master ChefGP from Group 8.
 
 Select the Chef you want to call:
 1. 2vJSPK - Jesus Vera
@@ -178,7 +183,7 @@ Oh honey, we can always turn up the heat a bit more! Let's take that banana brea
 </pre>
 
 ## Appendix C
-<pre> 
+<pre>
 
 Welcome to the Master ChefGP from Group 8.
 

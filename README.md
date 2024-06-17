@@ -6,7 +6,7 @@ OpenAI has incredibly made things easier for everyone as the pre-trained models 
 
 The current project is based on OpenAI and how well we can apply the chat `prompts` to customise our outcomes in the different scripts.
 
-The project will allow the user to execute different scripts that will prompt them to ask for recipes, and dish names and criticize a recipe as if they were talking to a professional chef. Every script will run a different version of the ChefGPT with an entirely different personality.
+The project will allow the user to execute different scripts that will prompt them to ask for recipes, and dish names or to criticize a recipe as if they were talking to a professional chef. Every script will run a different version of the ChefGPT with a distinct personality.
 
 ## Prerequisites
 

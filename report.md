@@ -9,7 +9,7 @@ The project aims to develop AI chef scripts with distinct personalities to handl
 The report is based on 3 experiments:
 1. Passing a list of ingredients for one script (ChefGTP_tJ5Mon)
 2. Asking another script for a recipe for that dish (ChefGPT_2vJSPK)
-3. Criticizing the recipe given by the last script with a third script (Aleksandar Brayanov's script)
+3. Criticizing the recipe given by the last script with a third script (ChefGPT_4bwGEs)
 
 ## Experiments
 ### Experiment 1: Passing a List of Ingredients
